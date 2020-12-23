@@ -1,0 +1,30 @@
+
+* {
+    border-radius:8px;
+    background-color:#413c3c;
+
+    color:white;
+}
+
+.headder{
+
+    text-align:center;
+}
+.box{
+
+   
+    border:2px dashed gray;
+    display: flex;
+    flex-direction:column;
+  
+}
+
+.places{
+    color: red;
+    background-color:#ffffff;
+    padding :15px;
+    text-align: center;
+    margin: 10px;
+
+    font-weight:700;
+}
